@@ -1,7 +1,7 @@
 {
-  "name": "mishka-24",
+  "name": "yasenbit",
   "private": true,
-  "description": "Личный проект «Мишка» от HTML Academy",
+  "description": "Личный проект интернет радио",
   "devDependencies": {
     "@htmlacademy/editorconfig-cli": "1.0.0",
     "autoprefixer": "10.4.0",
